@@ -1,5 +1,3 @@
-__Stefan's musings__
-
 This very much reminds me of building my first homepage on the world wide web in 1992.
 
 # My stuff online
@@ -7,4 +5,3 @@ This very much reminds me of building my first homepage on the world wide web in
 * [Profile on Bluesky](https://bsky.app/profile/stefankellner.bsky.social)
 * [3D models](https://www.printables.com/@StefanKellner_350938)
 
-This page was made using https://xlog.emadelsaid.com/
