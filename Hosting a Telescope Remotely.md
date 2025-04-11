@@ -20,3 +20,17 @@ I had to wait for the Skywatcher 0.77 reducer for a couple of weeks. It seems th
 While waiting for the reducer, I got a flattener from the UK and made some photos with the native FL of 840mm in the meantime, e.g.: [Bode's Galaxy and Cigar](https://app.astrobin.com/u/skellner?i=1erthj#gallery).
 So far I'm very happy with the setup. Almost no tilt, nice stars, very sharp. However, the is one caveat: on low temperatures (< 5°C), the stars tend to become hexagonal due to pinched optics.
 I learned that is common with these scopes There is a solution: heating. I solved the problem by placing a dew strip directly on the lens cell inside the dew shield. Great star down to -5°C.
+
+# Mount
+For the mount I went for a [iOptron CEM70](https://www.ioptron.com/product-p/c70a.htm). I generally like the iOptron mounts and I wanted a mount that can serve long focal lengths a.k.a a traditional mount that will guide with long guiding exposures. It will fit well with the Esprit and could also carry a bit more in the future. The CEM120 seemed to be overkill at this point.
+
+# Computer &amp; Software
+I'm using a [Mele Quieter 3C](https://store.mele.cn/products/mele-quieter-3c-fanless-mini-pc-n5105-small-computer-portable-ddr4-windows11-hdmi-4k-wi-fi-6-gigabit-ethernet-bt-5-2-usb-3-2-3-type-c-dp-sd-card-ssd-support-vesa-mount) with [N.I.N.A](https://nighttime-imaging.eu/) for more than a year now and I'm very happy with it. So the remote rig will also run that way.
+
+# Putting it together
+I got a [losmandy rail](https://www.ebay.de/itm/387330560596?var=654589079236) from ebay to put on top of the scope and then 3d-printed some [custom brackets](https://www.printables.com/model/1221142-mount-mele-quieter-3c-to-primalucelab-losmandy-pla) to attach the Pegasus Astro [USB Control Hub](https://pegasusastro.com/products/usb-control-hub/) and the [Power Box Micro](https://pegasusastro.com/products/pocket-powerbox-micro/) to the rail. This is a nice and clean solution. The computer will not be attached to the scope, I will put it below the scope.
+
+
+# Testing
+To make sure that the rig will work nicely in Spain I tested it for a couple of nights in my backyard.
+
