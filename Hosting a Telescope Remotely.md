@@ -5,7 +5,7 @@ After doing 1,5 years of astrophotography I wanted to up the game. I got some ni
 I decided to host a scope at [Trevinca Skies](https://trevincaskies.com/) in Spain instead.\
 The monthly rate is ok and the location seems nice.
 
-# Refractor
+# Scope
 So, what scope to put there? In the first place I contemplated setting up my Celestron EdgeHD 800 at the remote site but after a couple of tests I decided against it:
 * Collimation: the scope loses collimation every once in a while due to focusing or changing direction (mirror shift). The solution would have been to add an external focuser. Due to the short back focus of 105mm there is only one pricey solution: [PLL Esatto 2" LP](https://www.primalucelab.com/focusers/esatto-2-lp/).\
   I image in mono, so I need the focuser, a filter wheel and an OAG in the back focus as well.
