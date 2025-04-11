@@ -1,4 +1,4 @@
-![Bode's Galaxy and Cigar](https://cdn.astrobin.com/thumbs/hzU03cCQPMOQ_620x0_csAu41oP.png)
+io![Bode's Galaxy and Cigar](https://cdn.astrobin.com/thumbs/hzU03cCQPMOQ_620x0_csAu41oP.png)
 
 # Hosting a telescope at a dark site
 After doing 1,5 years of astrophotography I wanted to up the game. I got some nice results from my backyard in Berlin, but the possibilities are limited due to weather and light pollution. I only managed to drive to a dark site near Berlin for a couple of times on clear nights, so not much improvement there.\
@@ -23,6 +23,12 @@ I learned that is common with these scopes There is a solution: heating. I solve
 
 # Mount
 For the mount I went for a [iOptron CEM70](https://www.ioptron.com/product-p/c70a.htm). I generally like the iOptron mounts and I wanted a mount that can serve long focal lengths a.k.a a traditional mount that will guide with long guiding exposures. It will fit well with the Esprit and could also carry a bit more in the future. The CEM120 seemed to be overkill at this point.
+
+# Rotator
+I couldn't resist the very low price for the [WandererAstro Rotator Mini](https://www.wandererastro.com/en/h-col-126.html) on [ebay](https://www.ebay.de/itm/386583833104). I was a bit sceptical about the quality and was afraid that it would introduce tilt, but the part is rock solid and very slim. Also the software work well.
+
+# Flat Panel
+I got [WandererAstro Flat Panel](https://www.wandererastro.com/en/h-col-154.html) from the same ebay seller, also a really great product.
 
 # Computer &amp; Software
 I'm using a [Mele Quieter 3C](https://store.mele.cn/products/mele-quieter-3c-fanless-mini-pc-n5105-small-computer-portable-ddr4-windows11-hdmi-4k-wi-fi-6-gigabit-ethernet-bt-5-2-usb-3-2-3-type-c-dp-sd-card-ssd-support-vesa-mount) with [N.I.N.A](https://nighttime-imaging.eu/) for more than a year now and I'm very happy with it. So the remote rig will also run that way.
