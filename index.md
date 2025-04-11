@@ -6,4 +6,4 @@ This very much reminds me of building my first homepage on the world wide web in
 * [3D models](https://www.printables.com/@StefanKellner_350938)
 
 # Projects
-* [Remote Telescope Hosting in Spin](/Hosting a Telescope Remotely)
+* [Remote Telescope Hosting in Spain](https://skellner.github.io/Hosting%20a%20Telescope%20Remotely/)
