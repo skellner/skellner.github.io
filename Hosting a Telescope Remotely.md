@@ -8,7 +8,7 @@ The monthly rate is ok and the location seems nice.
 # Scope
 So, what scope to put there? In the first place I contemplated setting up my Celestron EdgeHD 800 at the remote site but after a couple of tests I decided against it:
 * Collimation: the scope loses collimation every once in a while due to focusing or changing direction (mirror shift). The solution would have been to add an external focuser. Due to the short back focus of 105mm there is only one pricey solution: [PLL Esatto 2" LP](https://www.primalucelab.com/focusers/esatto-2-lp/).\
-  I image in mono, so I need the focuser, a filter wheel and an OAG in the back focus as well.
+  I image in mono, so I need the focuser, a filter wheel and an OAG in the back focus as well
 * Star shapes: stars always look a bit blotched with the EdgeHD
 * Rotator: I need a rotator to control the framing. With the external focuser there is not enough back focus to add a rotator
 * I'm leaning to wide field astrophotography right now
@@ -29,6 +29,12 @@ I couldn't resist the very low price for the [WandererAstro Rotator Mini](https:
 
 # Flat Panel
 I got [WandererAstro Flat Panel](https://www.wandererastro.com/en/h-col-154.html) from the same ebay seller, also a really great product.
+
+# Camera
+The Esprit 120ED works well with an APS-C camera, so I will use my Touptek IMX571  mono and get a new camera for my mobile rig if needed.
+
+# Filter &amp; Filter wheel
+I will stick with my 36mm Astronomik Deep Sky and 6nm SHO filters and the ZWO 7x36mm EFW.
 
 # Computer &amp; Software
 I'm using a [Mele Quieter 3C](https://store.mele.cn/products/mele-quieter-3c-fanless-mini-pc-n5105-small-computer-portable-ddr4-windows11-hdmi-4k-wi-fi-6-gigabit-ethernet-bt-5-2-usb-3-2-3-type-c-dp-sd-card-ssd-support-vesa-mount) with [N.I.N.A](https://nighttime-imaging.eu/) for more than a year now and I'm very happy with it. So the remote rig will also run that way.
