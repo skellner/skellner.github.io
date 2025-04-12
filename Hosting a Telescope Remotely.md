@@ -1,4 +1,4 @@
-io![Bode's Galaxy and Cigar](https://cdn.astrobin.com/thumbs/hzU03cCQPMOQ_620x0_csAu41oP.png)
+![Bode's Galaxy and Cigar](https://cdn.astrobin.com/thumbs/hzU03cCQPMOQ_620x0_csAu41oP.png)
 
 # Hosting a telescope at a dark site
 After doing 1,5 years of astrophotography from my backyard I wanted to up the game. I got some nice results from my backyard in Berlin, but the possibilities are limited due to weather and light pollution. I only managed to drive to a dark site near Berlin for a couple of times on clear nights, so not much improvement there.\
