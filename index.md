@@ -7,3 +7,5 @@ This very much reminds me of building my first homepage on the world wide web in
 
 # 🔭 Projects
 * [Remote Telescope Hosting in Spain](https://skellner.github.io/Hosting%20a%20Telescope%20Remotely/)
+
+# 🩹 Repairs
