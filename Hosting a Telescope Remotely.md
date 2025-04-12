@@ -42,7 +42,7 @@ I'm using a [Mele Quieter 3C](https://store.mele.cn/products/mele-quieter-3c-fan
 # Putting it together
 I got a [losmandy rail](https://www.ebay.de/itm/387330560596?var=654589079236) from ebay to put on top of the scope and then 3d-printed some [custom brackets](https://www.printables.com/model/1221142-mount-mele-quieter-3c-to-primalucelab-losmandy-pla) to attach the Pegasus Astro [USB Control Hub](https://pegasusastro.com/products/usb-control-hub/) and the [Power Box Micro](https://pegasusastro.com/products/pocket-powerbox-micro/) to the rail. This is a nice and clean solution. The computer will not be attached to the scope, I will put it below the scope.
 
-![](https://skellner.github.io/images/IMG_2829.JPEG)
+![](/images/IMG_2829.JPEG)
 
 # Testing
 To make sure that the rig will work nicely in Spain I tested it for a couple of nights in my backyard.
