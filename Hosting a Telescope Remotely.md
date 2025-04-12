@@ -14,7 +14,7 @@ So, what scope to put there? In the first place I contemplated setting up my Cel
 * I'm leaning to wide field astrophotography right now
 
 After some consideration, I decided against the EdgeHD for the remote rig. A refractor makes more sense: Refractors do not require collimation and therefore are easy to maintain. I do not need an extra focuser and an OAG in the image train. I get sharp stars and a wide field.
-As the Skywatcher Esprit scopes have a very good reputation in the price range I decided to go for an Esprit 12oED. Luckily there was a promo running and I got one for a very good price from [Teleskop Spezialisten](https://www.teleskop-spezialisten.de/shop/).\
+As the Skywatcher Esprit scopes have a very good reputation in the price range I decided to go for an Esprit 120ED. Luckily there was a promo running and I got one for a very good price from [Teleskop Spezialisten](https://www.teleskop-spezialisten.de/shop/).\
 I had to wait for the Skywatcher 0.77 reducer for a couple of weeks. It seems that Skywatcher sold a lot of scopes during the promo while not having enough reducers available.
 
 While waiting for the reducer, I got a flattener from the UK and made some photos with the native FL of 840mm in the meantime, e.g.: [Bode's Galaxy and Cigar](https://app.astrobin.com/u/skellner?i=1erthj#gallery).
