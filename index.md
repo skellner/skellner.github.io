@@ -21,4 +21,5 @@ This very much reminds me of building my first homepage on the world wide web in
 * [Record Cabinet](/projects/Record%20Cabinet/)
 
 # 🩹 Repairs
+* [Rocket Appartamento](/repairs/Rocket)
 * [Kaercher](/repairs/kaercher)
