@@ -1,7 +1,7 @@
 # Record Cabinet
 I always wanted a record cabinet that holds all my records in drawers. I imagined a cabinet so massive that you can put a record player on top of it and it will keep running nicely even when the drawers are opened. 
 
-I made it from ash and it was a big challenge as some parts are quiet large and heavy and my machines in the work shop are small.
+I made it from ash and it was quite a challenge as some parts were too large and heavy for my machines.
 
 ![](../IMG_0227.jpeg)
 ![](../IMG_0228.jpeg)
