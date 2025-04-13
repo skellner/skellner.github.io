@@ -13,24 +13,13 @@ I made it from ash and it was a big challenge as some parts are quiet large and 
 
 ![](../IMG_0236.jpeg)
 ![](../IMG_0238.jpeg)
-![](../IMG_0242.jpeg)
-
-![](../IMG_0246.jpeg)
-![](../IMG_0247.jpeg)
-![](../IMG_0248.jpeg)
-
-![](../IMG_0249.jpeg)
-![](../IMG_0250.jpeg)
-![](../IMG_0253.jpeg)
-
-![](../IMG_0255.jpeg)
 ![](../IMG_0268.jpeg)
-![](../IMG_0269.jpeg)
 
+![](../IMG_0269.jpeg)
 ![](../IMG_0286.jpeg)
 ![](../IMG_0300.jpeg)
-![](../IMG_0302.jpeg)
 
+![](../IMG_0302.jpeg)
 ![](../IMG_0305.jpeg)
 ![](../IMG_0306.jpeg)
 
