@@ -13,6 +13,7 @@ This very much reminds me of building my first homepage on the world wide web in
 
 # 🪵 Projects
 * 🤖 [Robot Bar](/projects/Robot%20Bar/)
+* 🤖 [Shoe Rack](/projects/Shoe%20Rack/)
 
 # 🩹 Repairs
 * [Kaercher](/repairs/kaercher)
