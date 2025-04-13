@@ -8,6 +8,9 @@ This very much reminds me of building my first homepage on the world wide web in
 # 🔭 Projects
 * [Remote Telescope Hosting in Spain](/Hosting%20a%20Telescope%20Remotely/)
 
+# 🪵 Projects
+* [Robot Bar](/projects/Robot%20Bar/)
+
 # ⚙️ Astro-Gear
 * [Touptek FS-200 AC guide scope with crayford focuser](/gear/FS-200AC)
 
