@@ -8,5 +8,4 @@ This was released from [Williams Optics](https://williamoptics.com/products/cat-
 ![](../IMG_2570.jpeg)
 ![](../IMG_2571.jpeg)
 ![](../IMG_2572.jpeg)
-![](../IMG_2573.jpeg)
 ![](../IMG_2574.jpeg)
