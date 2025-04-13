@@ -1,4 +1,4 @@
-This very much reminds me of building my first homepage on the world wide web in 1992.
+This very much reminds me of building my first homepage on the world wide web 1992. After going the full circle from the birth of the Web in the 90ties, Web 2.0 in the early 2000s, the hype of social media, crypto, AI, and whatever we are now back at the basics and call it digital gardens. As always, I'm in.
 
 # 🪪 Profile
 * [Astrophotography gallery on Astrobin](https://app.astrobin.com/u/skellner#gallery)
