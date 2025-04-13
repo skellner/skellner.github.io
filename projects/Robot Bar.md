@@ -1,6 +1,8 @@
 # Bar Robot
 
 ![](../IMG_1264.jpeg)
+![](../IMG_1264.jpeg)
+![](../IMG_1264.jpeg)
 
 Once I saw the [photo of this amazing design of Borghesani](https://www.1stdibs.com/furniture/storage-case-pieces/dry-bars/spectacular-mobile-bar-designed-borghesani/id-f_1240042/#zoomModalOpen) on the web I decided to build my own.
 
