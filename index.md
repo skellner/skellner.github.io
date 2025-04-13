@@ -18,6 +18,7 @@ This very much reminds me of building my first homepage on the world wide web in
 * [Shoe Rack](/projects/Shoe%20Rack/)
 * [Barista Station](/projects/Barista%20Station/)
 * [Box](/projects/Box/)
+* [Record Cabinet](/projects/Record%20Cabinet/)
 
 # 🩹 Repairs
 * [Kaercher](/repairs/kaercher)
