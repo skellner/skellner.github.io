@@ -26,6 +26,13 @@ This very much reminds me of building my first homepage on the world wide web 19
 * [Nexus by Yuval Noah Harari](https://www.amazon.de/s?k=nexus+harari&adgrpid=72962592404&hvadid=676448056272&hvdev=c&hvlocphy=9041599&hvnetw=g&hvqmt=e&hvrand=13956503874504232837&hvtargid=kwd-2302480748324&hydadcr=5778_2404965&mcid=d1f28251fbbe351c9f13bf56ea803292&tag=googhydr08-21&ref=pd_sl_8nxu1md7n8_e)
 * [Die Schönheit des Fallens: Auf der Suche nach dem Geheimnis der Gravitation by Claudia de Rham](https://www.amazon.de/gp/product/B0CNPZ1TGV/ref=ppx_yo_dt_b_d_asin_title_351_o08?ie=UTF8&psc=1)
 
+# 📻 Podcasts
+* [Startalk by Neil deGrasse Tyson](https://startalkmedia.com/)
+* [Kalk und Welk](https://www.ardaudiothek.de/sendung/kalk-und-welk/10777871/)
+* [Zeit Verbrechen](https://www.zeit.de/serie/verbrechen)
+* [Der Spektrum-Podcast](https://www.spektrum.de/index/der-spektrum-podcast/1668270?gad_source=1&gbraid=0AAAAAD_c8R4aA8BLHw6gKXVxRtkWZVNyp&gclid=Cj0KCQjwqv2_BhC0ARIsAFb5Ac_xAnhX8Lo4Kg8DRdUE0bkkToMnjKwXJ__x3tzJ67ilAZLc_Q2VwsMaAkM4EALw_wcB)
+* [FAZ Wissen](https://www.faz.net/podcasts/f-a-z-wissen-der-podcast/)
+
 # 🩹 Repairs
 * [Rocket Appartamento](/repairs/Rocket)
 * [Kaercher](/repairs/kaercher)
