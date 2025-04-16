@@ -22,6 +22,10 @@ This very much reminds me of building my first homepage on the world wide web 19
 * [Box](/projects/Box/)
 * [Record Cabinet](/projects/Record%20Cabinet/)
 
+# 📖 Books I read
+* [Nexus by Yuval Noah Harari](https://www.amazon.de/s?k=nexus+harari&adgrpid=72962592404&hvadid=676448056272&hvdev=c&hvlocphy=9041599&hvnetw=g&hvqmt=e&hvrand=13956503874504232837&hvtargid=kwd-2302480748324&hydadcr=5778_2404965&mcid=d1f28251fbbe351c9f13bf56ea803292&tag=googhydr08-21&ref=pd_sl_8nxu1md7n8_e)
+* [Die Schönheit des Fallens: Auf der Suche nach dem Geheimnis der Gravitation by Claudia de Rham](https://www.amazon.de/gp/product/B0CNPZ1TGV/ref=ppx_yo_dt_b_d_asin_title_351_o08?ie=UTF8&psc=1)
+
 # 🩹 Repairs
 * [Rocket Appartamento](/repairs/Rocket)
 * [Kaercher](/repairs/kaercher)
