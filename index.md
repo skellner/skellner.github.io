@@ -36,3 +36,6 @@ This very much reminds me of building my first homepage on the world wide web 19
 # 🩹 Repairs
 * [Rocket Appartamento](/repairs/Rocket)
 * [Kaercher](/repairs/kaercher)
+
+# Other Stuff
+* [Meteorite](/other/Meteorite)
