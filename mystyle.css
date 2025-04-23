@@ -1,3 +1,4 @@
+<style>
 .view>p:first-of-type img:only-child {
     border-radius: .5em;
     object-fit: cover;
@@ -6,3 +7,4 @@
     width: 100%;
     transition: max-height .5s
 }
+</style>
