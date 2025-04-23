@@ -17,11 +17,13 @@ After some consideration, I decided against the EdgeHD for the remote rig. A ref
 As the Skywatcher Esprit scopes have a very good reputation in the price range I decided to go for an Esprit 120ED. Luckily there was a promo running and I got one for a very good price from [Teleskop Spezialisten](https://www.teleskop-spezialisten.de/shop/).\
 I had to wait for the Skywatcher 0.77 reducer for a couple of weeks. It seems that Skywatcher sold a lot of scopes during the promo while not having enough reducers available.
 
+## Flattener
 While waiting for the reducer, I got a flattener from the UK and made some photos with the native FL of 840mm in the meantime, e.g.: [Bode's Galaxy and Cigar](https://app.astrobin.com/u/skellner?i=1erthj#gallery).
 So far I'm very happy with the setup. Almost no tilt, nice stars, very sharp. However, the is one caveat: on low temperatures (< 5°C), the stars tend to become hexagonal due to pinched optics.
 I learned that is common with these scopes There is a solution: heating. I solved the problem by placing a dew strip directly on the lens cell inside the dew shield. Great star down to -5°C.
 
-Two weeks ago, the reducer arrived and I tested it out with different back focus settings. I git the best results using the same back focus as with the flattener, 58mm. This setting is due to the fact that I couldn't go shorter with my current adapters. I ordered some additonal adapters now to be able to adjust the back focus for 55mm, 56mm, 57mm, and 58mm. I will try out all settings with both the flattener and the reducer to find the best fit.
+## Reducer
+Two weeks ago, the reducer arrived and I tested it out with different back focus settings. I got the best results using the same back focus as with the flattener, 58mm. Anything longer didn't work well and I couldn't go shorter with my current adapters. I ordered some additional adapters now to be able to adjust the back focus for 55mm, 56mm, 57mm, and 58mm. I will try out all settings with both the flattener and the reducer to find the best fit.
 
 # Mount
 For the mount I went for a [iOptron CEM70](https://www.ioptron.com/product-p/c70a.htm). I generally like the iOptron mounts and I wanted a mount that can serve long focal lengths a.k.a a traditional mount that will guide with long guiding exposures. It will fit well with the Esprit and could also carry a bit more in the future. The CEM120 seemed to be overkill at this point.
