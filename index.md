@@ -1,4 +1,4 @@
-[](/images/Backyard%20Astronomer.png)
+![](/images/Backyard%20Astronomer.png)
 
 This very much reminds me of building my first homepage on the world wide web 1992. After going full circle from the birth of the Web in the 90ties, Web 2.0 in the early 2000s, the hype of social media, crypto, AI, and whatever we are now back at the basics and call it digital gardens. As always, I'm in.
 
