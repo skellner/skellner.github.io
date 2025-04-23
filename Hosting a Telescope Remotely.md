@@ -29,7 +29,7 @@ Two weeks ago, the reducer arrived and I tested it out with different back focus
 For the mount I went for a [iOptron CEM70](https://www.ioptron.com/product-p/c70a.htm). I generally like the iOptron mounts and I wanted a mount that can serve long focal lengths a.k.a a traditional mount that will guide with long guiding exposures. It will fit well with the Esprit and could also carry a bit more in the future. The CEM120 seemed to be overkill at this point.
 
 # Rotator
-I couldn't resist the very low price for the [WandererAstro Rotator Mini](https://www.wandererastro.com/en/h-col-126.html) on [ebay](https://www.ebay.de/itm/386583833104). I was a bit sceptical about the quality and was afraid that it would introduce tilt, but the part is rock solid and very slim. Also the software work well.
+I couldn't resist the very low price for the [WandererAstro Rotator Mini](https://www.wandererastro.com/en/h-col-126.html) on [ebay](https://www.ebay.de/itm/386583833104). I was a bit sceptical about the quality and was afraid that it would introduce tilt, but the part is rock solid and very slim. Also the software works very well.
 
 # Flat Panel
 I got [WandererAstro Flat Panel](https://www.wandererastro.com/en/h-col-154.html) from the same ebay seller, also a really great product.
