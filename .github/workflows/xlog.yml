@@ -42,7 +42,7 @@ jobs:
           --build . \
           --sitename "skellner" \
           --theme "light" \
-          --custom.head ./mystyle.css
+          --custom.head "mystyle.css"
           rm *.md
           chmod -R 0777 .          
 
