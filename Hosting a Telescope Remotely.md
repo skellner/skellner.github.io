@@ -25,6 +25,10 @@ I learned that is common with these scopes There is a solution: heating. I solve
 ## Reducer
 Two weeks ago, the reducer arrived and I tested it out with different back focus settings. I got the best results using the same back focus as with the flattener, 58mm. Anything longer didn't work well and I couldn't go shorter with my current adapters. I ordered some additional adapters now to be able to adjust the back focus for 55mm, 56mm, 57mm, and 58mm. I will try out all settings with both the flattener and the reducer to find the best fit.
 
+## Determine Back Focus
+I took a more structured approach to determine the back focus. I created a sheet with possible options and made test exposures to assess the results.
+![](../backfocus.jpg)
+
 # Mount
 For the mount I went for a [iOptron CEM70](https://www.ioptron.com/product-p/c70a.htm). I generally like the iOptron mounts and I wanted a mount that can serve long focal lengths a.k.a a traditional mount that will guide with long guiding exposures. It will fit well with the Esprit and could also carry a bit more in the future. The CEM120 seemed to be overkill at this point.
 
