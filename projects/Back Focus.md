@@ -1,5 +1,5 @@
 # Setup
-I took a structured approach to determine the back focus of my Esprit 120ED with the 0.77 reducer. I created a sheet with possible options and made test exposures to assess the results. For each backfocus length I ran the auto focus in the Abberation Inspector in [N.I.N.A](https://nighttime-imaging.eu/) and made a screenshot.
+I took a structured approach to determine the back focus of my Esprit 120ED with the 0.77 reducer. I created a sheet with possible options and made test exposures to assess the results. For each backfocus length I ran the auto focus in the Abberation Inspector in [N.I.N.A](https://nighttime-imaging.eu/) and made a screenshot. Also, I made 3 60s exposures for further analysis in Pixinsight and [ASTAP](https://www.hnsky.org/astap.htm).
 
 ![](/images/backfocus.png)
 
