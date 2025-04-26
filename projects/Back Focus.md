@@ -17,10 +17,10 @@ I took a structured approach to determine the back focus of my Esprit 120ED with
 ![](../BF_58mm.png)
 
 58mm is the best. As I also have excellent results with 58mm and the flattener, I will leave it there to make it easy to swap the flattener for the reducer during galaxy season.
-
+ cm
 Some more image analysis on a single green sub from [Pixinisght](https://pixinsight.com/):
 
-This is quite OK, although not perfect. Earlier I tried with 59mma and 60mm but forgot to make screenshots. It didn't improve any further with a long BF. I guess this is the best I can get out of this setup. Aberrations like this are easily dealt with in processing to achieve perfectly round stars to the edges.
+This is quite OK, although not perfect. Last week I tried with 59mm and 60mm but forgot to make screenshots. It didn't improve any further with a long BF. I guess this is the best I can get out of this setup. Aberrations like this are easily dealt with in processing to achieve perfectly round stars to the edges.
 
 ## Aberration Inspector G
 ![](../ab_inspector_58mm.png)
