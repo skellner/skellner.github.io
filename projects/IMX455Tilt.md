@@ -48,4 +48,5 @@ Screwed B out a bit.
 Ok for now.
 
 # Next Steps
-I played around more and more, but it is almost impossible to get a better result using the 3-Point adjustment screws on the camera. To further improve, I would have to add a different way to fine-tune the tilt but for now, I'm OK with it. In my experience, tilt below 15% is easily fixed in post processing, so no need to get crazy here.
+I played around more and more, but it is almost impossible to get a better result using the 3-Point adjustment screws on the camera. To further improve, I would have to add a different way to fine-tune the tilt but for now, I'm OK with it. I could also confirm that the tilt is caused by the camera by rotating the imaging train. I'm looking forward to trying this camera with one of my scopes with a sloppy focuser...
+In my experience, tilt below 15% is easily fixed in post processing, so no need to get crazy here.
