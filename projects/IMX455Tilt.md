@@ -3,7 +3,7 @@ Adjusting tilt with a full frame sensor can be very demanding. I know that my [W
 # Measuring Tilt
 I used two ways to measure sensor tilt: [ASTAP](https://www.hnsky.org/astap.htm) and the [Aberration Inspector in N.I.N.A](https://nighttime-imaging.eu/).
 
-The camera has three sets of screws for tilt adjustment:
+This [Touptek IMX455 camera](https://www.teleskop-express.de/de/ts-zubehoer-31/kameras-gekuehlt-16/ts455mp-17896) has three sets of screws for tilt adjustment:
 ![](../IMG_2993.jpg)
 Upper left (UL), upper right (UR), and bottom (B)
 
