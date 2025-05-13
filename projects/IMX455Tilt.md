@@ -4,7 +4,7 @@ Adjusting tilt with a full frame sensor can be very demanding. I know that my [W
 I used two ways to measure sensor tilt: [ASTAP](https://www.hnsky.org/astap.htm) and the [Aberration Inspector in N.I.N.A](https://nighttime-imaging.eu/).
 
 The camera has three sets of screws for tilt adjustment:
-![](../IMG_2993.JPEG)
+![](../IMG_2993.jpg)
 Upper left (UL), upper right (UR), and bottom (B)
 
 I pointed the telescope to the north and ran autofocus after each adjustment setting. For each adjustment I opened all three fastening screws (those in the middle of each set), then adjusted the tilt with the two smaller screws and fastened the fastening screws again. I did that not to bend the plate too much. After that, I made a single 5s exposure, loaded the file into ASTAP, solved it and did Image Analysis/Tilt. Sometimes I had to make a couple of exposures as the ASTAP method is very sensitive to seeing conditions. Every once in a while I ran N.I.N.A. aberration inspector to verify the findings.
