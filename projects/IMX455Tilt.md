@@ -10,7 +10,7 @@ Upper left (UL), upper right (UR), and bottom (B)
 I pointed the telescope to the north and ran autofocus after each adjustment setting. For each adjustment I opened all three fastening screws (those in the middle of each set), then adjusted the tilt with the two smaller screws and fastened the fastening screws again. I did that not to bend the plate too much. After that, I made a single 5s exposure, loaded the file into ASTAP, solved it and did Image Analysis/Tilt. Sometimes I had to make a couple of exposures as the ASTAP method is very sensitive to seeing conditions. Every once in a while I ran N.I.N.A. aberration inspector to verify the findings.
 
 # Initial State
-![](../Screenshot 2025-05-13 190749.png)
+![](../Screenshot%202025-05-13%20190749.png)
 
 # One
 I screwed UL a bit in to move the sensor back on the upper left side. 
