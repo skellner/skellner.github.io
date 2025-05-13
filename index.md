@@ -18,6 +18,7 @@ This very much reminds me of building my first homepage on the world wide web 19
 * [Esprit 120ED](/gear/esprit120ed/Esprit120ED)
 * [Astro Tools](/gear/Astro%20Tools)
 * [Software](/gear/software)
+* [12V PSUs from MeanWell](/gear/12Vpsu)
 
 # 🪵 Projects
 * 🤖 [Robot Bar](/projects/Robot%20Bar/)
