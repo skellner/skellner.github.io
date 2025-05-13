@@ -1,10 +1,10 @@
-There are lots of options for 12V PSUs and it's hard to decide which one to buy. Many people fear that bad quality PSUs could damage their expensive equipment and buy dedicated astrophoto PSUs. I got a PSU from Baader a while ago and needed two more PSUs for my setup. I picked Mean Well units which are always a good choice and found out following:
+There are lots of options for 12V PSUs and it's hard to decide which one to buy. Many people fear that bad quality PSUs could damage their expensive equipment and buy dedicated astrophoto PSUs. I got a PSU from Baader a while ago and needed two more PSUs for my setup. I picked cheap Mean Well units from Amazon which are always a good choice. Today they arrived and I found out the following:
 
 * Baader PSU, 68 EUR vs MeanWell PSU, 15 EUR
 
 ![](../IMG_2987.JPEG)
 ![](../IMG_2988.JPEG)
-![](../IMG_2989.JPEG)
+![](../IMG_2990.JPEG)
 
 Although they look almoste the same, the units are different:
 
