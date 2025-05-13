@@ -11,7 +11,7 @@ This very much reminds me of building my first homepage on the world wide web 19
 * [Remote Telescope Hosting in Spain](/Hosting%20a%20Telescope%20Remotely/)
 * [Counter Weight for Filter Wheels](/projects/Counterweight)
 * [Determine the proper back focus for an Esprit 120ED with the 0.77 flattener](/projects/Back%20Focus)
-* [tilt Adjustment IMX455 Full Frame Sensor](/projects/IMX455Tilt)
+* [Tilt Adjustment IMX455 Full Frame Sensor](/projects/IMX455Tilt)
 
 # ⚙️ Astro-Gear
 * [Touptek FS-200 AC guide scope with crayford focuser](/gear/FS-200AC)
