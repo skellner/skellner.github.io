@@ -1,6 +1,6 @@
 Adjusting tilt with a full frame sensor can be very demanding. I know that my [William Optics Cat 91](../gear/Cat91) is almost tilt-free so the main reason for tilt must be the camera/sensor itself.
 
-# Sources of Tilt
+# Sources of tilt
 There are many possible sources of tilt: focuser, adaptors, OAG, basically everything in the image train. Even optics, filters, reducers or flatteners can add tilt to the system. Before adjusting the tilt in your system you have to find the source of the tilt. In my case most of the time it was the focuser. Focusers are heavily strained by the weight of the camera and other stuff and many of them are too weak. It's easy to find out if the focuser is your source of tile: point your scope to different regions in the sky, make photos and analyse them. I also had bad adapters causing tilt, since then I measure all adaptors with a caliper to be sure. 
 
 # Sensor tilt
