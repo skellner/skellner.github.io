@@ -1,4 +1,4 @@
-Adjusting tilt with a full frame sensor can be very demanding. I know that my [William Optics Cat 91](../gear/Cat91) is almost tilt-free so the main reason for tilt must be the camera itself.
+Adjusting tilt with a full frame sensor can be very demanding. I know that my [William Optics Cat 91](../gear/Cat91) is almost tilt-free so the main reason for tilt must be the camera/sensor itself.
 
 # Measuring Tilt
 I used two ways to measure sensor tilt: [ASTAP](https://www.hnsky.org/astap.htm) and the [Aberration Inspector in N.I.N.A](https://nighttime-imaging.eu/).
@@ -46,6 +46,11 @@ Too much.
 Screwed B out a bit.
 ![](../Screenshot%202025-05-13%20191422.png)
 Ok for now.
+
+# Final test with N.I.N.A aberration inspector
+![](../Screenshot%202025-05-16%20192149)
+![](../Screenshot%202025-05-16%20192157)
+
 
 # Next Steps
 I played around more and more, but it is almost impossible to get a better result using the 3-Point adjustment screws on the camera. To further improve, I would have to add a different way to fine-tune the tilt but for now, I'm OK with it. I could also confirm that the tilt is caused by the camera by rotating the imaging train. I'm looking forward to trying this camera with one of my scopes with a sloppy focuser...
