@@ -55,6 +55,7 @@ Ok for now.
 
 # Final test with N.I.N.A aberration inspector
 ![](../Screenshot%202025-05-16%20192149.png)
+
 ![](../Screenshot%202025-05-16%20192157.png)
 
 
