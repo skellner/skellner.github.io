@@ -39,9 +39,8 @@ This very much reminds me of building my first homepage on the world wide web 19
 * [FAZ Wissen](https://www.faz.net/podcasts/f-a-z-wissen-der-podcast/)
 
 # 🩹 Repairs
-* [Rocket Appartamento](/repairs/Rocket)
+* [[Rocket Appartamento Pressostat]]
 * [[Kärcher Leaking]]
-* [Kaercher](/repairs/kaercher)
 
 # Other Stuff
-* [Meteorite](/other/Meteorite)
+* [[Meteorite from Morocco]]
