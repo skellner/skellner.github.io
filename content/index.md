@@ -18,6 +18,7 @@ This very much reminds me of building my first homepage on the world wide web 19
 * [[Useful Tools for Astrophotography]]
 * [[Software]]
 * [[12V PSUs from Mean Well]]
+* [[PiKVM - full computer access from remote]]
 
 # 🪵 Projects
 * 🤖 [[Robot Bar]]
@@ -39,6 +40,7 @@ This very much reminds me of building my first homepage on the world wide web 19
 
 # 🩹 Repairs
 * [Rocket Appartamento](/repairs/Rocket)
+* [[Kärcher Leaking]]
 * [Kaercher](/repairs/kaercher)
 
 # Other Stuff
