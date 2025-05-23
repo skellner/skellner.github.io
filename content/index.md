@@ -44,3 +44,4 @@ This very much reminds me of building my first homepage on the world wide web 19
 
 # Other Stuff
 * [[Meteorite from Morocco]]
+* [[Become more independent from US-providers]]
